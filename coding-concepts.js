@@ -52,3 +52,4 @@ console.log(myCodingSkills.languages[0])
 
 // a) Your answer: A string  saying "JavaScript"
 // b) Verify and explain: JavaScript, asking the console to go in this function "myCodingSkills", find the following object "languages" and return whatever this object has at its first index [0]. *NOTE* all arrays start with an index of zero "0" at their first element. 
+// 

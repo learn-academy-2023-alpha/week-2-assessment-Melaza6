@@ -57,13 +57,6 @@ Your answer: I don't know at the moment, but would love to do some researched an
 
 Researched answer: Is the behavior of moving declarations to the top in JavaScript, allowing the used of functions and variables before being declared.
 
-*Student Note*
-Before answering any interview question the student will read all the questions and answer all "Your answer:" sections of the quesions prior to answering any "Researched Answer" sections of the questions, to avoid research on the subject and its vocabulary. After all "Your Answer" sections have been answer the student begging research and answering the "Researched answer" sections of the questions. The student will use this .method() to optimize the understanding the subject and it's vocabulary. 
-
-
-
-"By answering the "Your Answer" section of questions prior to beggining research, the student is{}/isNot{} understanding the subject and it's vocabulary."
-
 ## Looking Ahead: Terms for Next Week
 
 Research and define the following terms to the best of your ability.

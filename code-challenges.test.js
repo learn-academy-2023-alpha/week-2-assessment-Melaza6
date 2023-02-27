@@ -179,7 +179,13 @@ const indexFirstVowel = (string) =>{
     //     if (vowels.indexOf(i) >= 0)
     //         return value = i
     // }return value
+
+
+    "Incomplete due to lack of research and frustration"
     
     
+
+
+
 
 
